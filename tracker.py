@@ -1,0 +1,1 @@
+print("Income Tracker is running")
